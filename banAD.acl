@@ -312,6 +312,7 @@
 (^|\.)xtzxmy\.com$
 (^|\.)xyrkl\.com$
 (^|\.)zhuanfakong\.com$
+(^|\.)ad-channel\.wikawika\.xyz$
 
 # ByteDance 头条抖音
 (^|\.)(ad|sm|dsp|nativeapp|partner|track)\.toutiao\.com$
